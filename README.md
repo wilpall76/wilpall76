@@ -26,7 +26,7 @@ Soy **Tech Lead** apasionado por la **Inteligencia Artificial**, **Agentes IA** 
 ---
 
 ## 📫 Contacto
-- **LinkedIn:** [linkedin.com/in/wilpall(#)
+- **LinkedIn:** [linkedin.com/in/wilpall](#)
 - **GitHub:** [github.com/wilpall76](#)
 - **Email:** wilpall@hotmail.com
 
