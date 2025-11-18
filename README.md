@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Banner -->
 <p align="center">
   <img src="banner.png" alt="Willington Palacios Loayza - Software Engineer" width="100%">
@@ -34,3 +35,7 @@ Soy **Tech Lead** apasionado por la **Inteligencia Artificial**, **Agentes IA** 
 ---
 
 ⭐ Si te interesa colaborar en proyectos de IA, ¡conectemos!
+=======
+# WillingtonPalaciosLoayza
+Archivo README.md y código fuente de GitHub Pages para un sitio web personal de una sola página
+>>>>>>> 9ea7e7f3f77121120e87cf916108b702f7c14eb4
