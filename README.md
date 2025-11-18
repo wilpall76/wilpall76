@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Banner -->
 <p align="center">
   <img src="banner.png" alt="Willington Palacios Loayza - Software Engineer" width="100%">
