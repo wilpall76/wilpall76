@@ -8,7 +8,6 @@
 ## 🚀 Sobre mí
 Soy **Tech Lead** apasionado por la **Inteligencia Artificial**, **Agentes IA** y la creación de soluciones innovadoras en la nube. Actualmente me enfoco en:
 - **Azure AI** 
-- Desarrollo de **Agentes Inteligentes** con memoria y aprendizaje continuo
 - Arquitecturas escalables y seguras para aplicaciones empresariales
 
 ---
